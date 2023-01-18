@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86946377675",
+    "project_id": "chat-app-5d1ad",
+    "storage_bucket": "chat-app-5d1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86946377675:android:a9803af7351eac4788904e",
+        "android_client_info": {
+          "package_name": "co.harshitpandey.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86946377675-hsnjo4eif07via32s62l1hdhk6ib2794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlizwsxTbFhOUTQ0I6J8rJ9qKKcDiW4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86946377675-hsnjo4eif07via32s62l1hdhk6ib2794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
